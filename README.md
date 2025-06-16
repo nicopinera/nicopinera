@@ -1,39 +1,58 @@
-# Hola soy Nico Piñera
+# 👋 ¡Hola! Soy Nico Piñera
 
-[Linkedin](https://www.linkedin.com/in/nicolas-pi%C3%B1era-07860727b/)
+🎓 Estudiante de **Ingeniería en Computación** en la Facultad de Ciencias Exactas, Físicas y Naturales – Córdoba, Argentina.
 
-Estudiante de Ingenieria en Computacion de la Facultad de ciencias exactas Fisica y Naturales - Cordoba Argentina.
+💻 Apasionado por la tecnología, los sistemas embebidos, el desarrollo de software y el aprendizaje continuo.
 
-Lenguajes: 
-+ Python (Basico)
-+ Java (Basico)
-+ C++ (Basico)
-+ Assembly (Basico)
+---
 
-## Github Stats
+## 🧠 Conocimientos
+
+**Lenguajes de programación**:  
+- 🐍 Python (básico)  
+- ☕ Java (básico)  
+- 💻 C++ (básico)  
+- ⚙️ Assembly (básico)
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+- Visual Studio Code, MPLAB X, NetBeans
+- Git & GitHub
+- Proteus
+- PIC16F887
+- Linux (básico), Windows
+
+---
+
+## 🌐 Redes
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-pi%C3%B1era-07860727b/)
+[![Email](https://img.shields.io/badge/-nicolaspinera@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nicolaspinera@gmail.com)
+
+---
+
+## 📈 GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nicopinera&theme=dark&border_radius=5&locale=es&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicopinera&show_icons=true&theme=radical&lang=es)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicopinera&show_icons=true&theme=radical&locale=es)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicopinera&layout=compact&theme=dark&lang=es)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicopinera&layout=compact&theme=dark&locale=es)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicopinera&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark&lang=es)
+---
 
+## ⌛ Actividad de Código
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nicopinera)](https://github.com/anuraghazra/github-readme-stats)
+### Lenguajes más usados (WakaTime)
+[![Lenguajes](https://wakatime.com/share/@nicopinera/07bedd40-3ce2-4732-b5b4-91eebf89e869.svg)](https://wakatime.com/@nicopinera)
 
-<!--
-**nicopinera/nicopinera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tiempo total codeando
+[![Actividad](https://wakatime.com/share/@nicopinera/f3027d16-d493-497e-bc0b-89692e81ac51.png)](https://wakatime.com/@nicopinera)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Objetivo actual
+
+Seguir creciendo como desarrollador y aprender más sobre programación de sistemas, electrónica digital y desarrollo de videojuegos.
