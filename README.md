@@ -35,7 +35,7 @@
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nicopinera&theme=dark&border_radius=5&locale=es&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nicopinera&theme=dark&hide_border=true&locale=es&short_numbers=true&card_width=500&card_height=200)](https://git.io/streak-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicopinera&show_icons=true&theme=radical&locale=es)
 
