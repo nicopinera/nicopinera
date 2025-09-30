@@ -57,7 +57,13 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nicopinera&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://komarev.com/ghpvc/?username=nicopinera&color=brightgreen)
+
+<a>
+
+  ![](https://komarev.com/ghpvc/?username=nicopinera&color=brightgreen)
+  [![wakatime](https://wakatime.com/badge/user/526bc2fa-8609-4567-a275-5d1be9077781.svg)](https://wakatime.com/@526bc2fa-8609-4567-a275-5d1be9077781)
+
+</a>
 
 </div>
 
@@ -66,7 +72,12 @@
 ## ⌛ Actividad de Código
 
 📌 **Lenguajes más usados (WakaTime):**  
-[![Lenguajes](https://wakatime.com/share/@nicopinera/07bedd40-3ce2-4732-b5b4-91eebf89e869.svg)](https://wakatime.com/@nicopinera)
+<div align="center">
+
+  [![Lenguajes](https://wakatime.com/share/@nicopinera/07bedd40-3ce2-4732-b5b4-91eebf89e869.svg)](https://wakatime.com/@nicopinera)
+      
+</div>
+
 
 ---
 
