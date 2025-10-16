@@ -2,43 +2,92 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Bienvenidos+a+mi+GitHub!;Soy+Nico+Piñera+🚀)](https://git.io/typing-svg)
 
-</div align="center">
+</div>
 
-# 👋 ¡Hola! Soy Nico Piñera
+# 👋 ¡Hola! Soy **Nico Piñera**
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-🎓 Estudiante de **Ingeniería en Computación** en la Facultad de Ciencias Exactas, Físicas y Naturales – Córdoba, Argentina.  
+🎓 **Estudiante avanzado de Ingeniería en Computación (66%)** en la Facultad de Ciencias Exactas, Físicas y Naturales – Universidad Nacional de Córdoba, Argentina.  
 
-💻 Apasionado por la **tecnología**, los **sistemas embebidos**, el **desarrollo de software** y el **aprendizaje continuo**.
+💻 Interesado en el desarrollo de **software, sistemas embebidos, IoT, control, comunicaciones digitales y DevOps**.  
+
+🧩 **Autodidacta, curioso y orientado a la resolución de problemas**, disfruto aprender nuevas tecnologías y aplicarlas en proyectos prácticos.  
 
 ---
 
-## 🧠 Conocimientos
+## 🧠 Conocimientos Técnicos
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,c,go,cpp,java,py,docker,octave,linux,vscode,md,ubuntu,vscode,windows,mint,discord&perline=12" />
-  </a>
+<p align="center"> 
+  <a href="https://skillicons.dev"> 
+    <img src="https://skillicons.dev/icons?i=git,github,c,go,cpp,java,py,docker,octave,linux,vscode,md,ubuntu,vscode,windows,mint,discord&perline=12" /> 
+  </a> 
 </p>
 
-**Lenguajes de programación:**
+**Lenguajes:**  
+- C (intermedio), C++, Python, Java, Go, Assembly (PIC), Bash  
 
-- 🐍 Python _(básico)_
-- ☕ Java _(básico)_
-- 💻 C++ _(básico)_
-- ⚙️ Assembly _(básico)_
-- 🔹 C _(básico)_
+**Herramientas y tecnologías:**  
+- Git & GitHub  
+- Docker (contenedores y servicios básicos)  
+- Prometheus y Grafana (monitoreo de sistemas)  
+- Jupyter Notebooks y Markdown  
+- VS Code, NetBeans, MPLAB X, Proteus  
+
+**Temas y áreas de interés:**  
+- Sistemas embebidos (PIC16F887, LPC1769)  
+- Comunicaciones digitales y control automático  
+- Desarrollo de software backend y APIs REST  
+- Monitoreo de sistemas, scripting y automatización  
+
+**Sistemas operativos:** Linux (Ubuntu, Mint), Windows  
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🧩 Proyectos Destacados
 
-- Visual Studio Code, NetBeans, MPLAB X
-- Git & GitHub
-- Proteus
-- Microcontroladores: **PIC16F887** y **LPC1769**
-- Linux _(básico)_ & Windows
+🔹 **Monitor de estadísticas de Linux (C + Prometheus + Grafana)**  
+Desarrollo de una herramienta para obtener y visualizar métricas del sistema (CPU, RAM, procesos, etc.).  
+Incluye una **mini shell interactiva** para gestionar las consultas.  
+📁 *Repositorio privado en desarrollo.*
+
+🔹 **VIN Decoder (Go + Docker + SQL)**  
+Proyecto en desarrollo bajo entorno laboral, utilizando **Go**, **Docker**, **Gorilla Mux** y **bases de datos SQL**.  
+Implementación de REST APIs simples (GET y POST), tests unitarios y despliegue en contenedores.  
+
+🔹 **Sistema de Control de Horno Eléctrico (PIC16F887, Assembly)**  
+Lectura ADC, multiplexado de displays, control de temperatura y comunicación UART.  
+📁 [Repositorio](https://github.com/nicopinera/horno-electrico)
+
+🔹 **Simulador de Comunicaciones Digitales (Python)**  
+Implementación de transmisor, canal AWGN y receptor con criterios ML/MAP y filtro casado.  
+📁 [Repositorio](https://github.com/nicopinera/comunicaciones-digitales)
+
+🔹 **Clon de Terraria (Python)**  
+Desarrollo de videojuego 2D con gestión de recursos, físicas y eventos.  
+📁 [Repositorio](https://github.com/nicopinera/terraria-clone)
+
+---
+
+## 📚 Formación
+
+🎓 **Ingeniería en Computación**  
+Facultad de Ciencias Exactas, Físicas y Naturales – Universidad Nacional de Córdoba  
+*(66% completado, 2019 – Actualidad)*
+
+📘 **Cursos complementarios:**  
+- Cisco CCNA: *Introducción a las Redes*  
+- Cisco *CyberOps*  
+- Inglés: nivel básico  
+- Formación autodidacta en Prometheus, Grafana, Docker y Go  
+
+---
+
+## 🧩 Otras experiencias
+
+🏀 **Entrenador de Básquet Nivel 3 (ENEBA)**  
+Especializado en minibasquet (4 a 13 años) y dirección de equipos mayores.  
+Desarrollo de habilidades en liderazgo, comunicación, gestión de grupo y planificación.  
 
 ---
 
@@ -57,48 +106,35 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nicopinera&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-<a>
-
-  ![](https://komarev.com/ghpvc/?username=nicopinera&color=brightgreen)
-  [![wakatime](https://wakatime.com/badge/user/526bc2fa-8609-4567-a275-5d1be9077781.svg)](https://wakatime.com/@526bc2fa-8609-4567-a275-5d1be9077781)
-
-</a>
+![](https://komarev.com/ghpvc/?username=nicopinera&color=brightgreen)
+[![wakatime](https://wakatime.com/badge/user/526bc2fa-8609-4567-a275-5d1be9077781.svg)](https://wakatime.com/@526bc2fa-8609-4567-a275-5d1be9077781)
 
 </div>
 
----
-
-## ⌛ Actividad de Código
-
-📌 **Lenguajes más usados (WakaTime):**  
-<div align="center">
-
+📌 **Lenguajes más usados (WakaTime):** 
+<div align="center"> 
+  
   [![Lenguajes](https://wakatime.com/share/@nicopinera/07bedd40-3ce2-4732-b5b4-91eebf89e869.svg)](https://wakatime.com/@nicopinera)
-      
+  
 </div>
-
 
 ---
 
-## 🌐 Redes
+## 🌐 Contacto
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-pi%C3%B1era-07860727b/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolaspinera@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nico.pinera/)
 
 </div>
 
 ---
 
-## 🎯 Objetivo actual
+## 🎯 Objetivo Profesional
 
-Seguir creciendo como desarrollador y aprender más sobre:
-
-- Programación de sistemas
-- Electrónica digital
-- Desarrollo de videojuegos
+Seguir desarrollándome como ingeniero en computación, integrando mis conocimientos en software, sistemas embebidos y monitoreo de sistemas.  
+Mi meta es participar en proyectos que combinen programación, electrónica y análisis de datos, aportando soluciones eficientes e innovadoras.
 
 ---
+
