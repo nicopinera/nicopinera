@@ -52,7 +52,7 @@ Incluye una **mini shell interactiva** para gestionar las consultas.
 📁 *Repositorio privado en desarrollo.*
 
 🔹 **Sistema de Control de Horno Eléctrico**  
-Investigacion y diseño de un sistema de control para un horno electrico
+Investigacion y diseño de un sistema de control para un horno electrico  
 📁 [Sistema de Control de Horno Electrico](https://github.com/nicopinera/sistema_control_tp.git)
 
 🔹 **Simulador de Comunicaciones Digitales (Python y Jupyter Notebook)**  
@@ -61,7 +61,7 @@ Implementación de transmisor, canal AWGN y receptor con criterios ML/MAP y filt
 
 🔹 **Sensor de Temperatura (Asembler - PIC16F887)**  
 Trabajo Práctico de Electrónica Digital 2 utilizando el microcontrolador PIC16F887. 
-El proyecto implementa los módulos de ADC y UART, multiplexación de display de 7 segmentos.
+El proyecto implementa los módulos de ADC y UART, multiplexación de display de 7 segmentos.  
 📁 [Repositorio](https://github.com/nicopinera/elec_dig_2)
 
 ---
