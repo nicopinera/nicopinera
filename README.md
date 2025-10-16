@@ -51,25 +51,26 @@ Desarrollo de una herramienta para obtener y visualizar métricas del sistema (C
 Incluye una **mini shell interactiva** para gestionar las consultas.  
 📁 *Repositorio privado en desarrollo.*
 
-🔹 **VIN Decoder (Go + Docker + SQL)**  
-Proyecto en desarrollo bajo entorno laboral, utilizando **Go**, **Docker**, **Gorilla Mux** y **bases de datos SQL**.  
-Implementación de REST APIs simples (GET y POST), tests unitarios y despliegue en contenedores.  
+🔹 **Sistema de Control de Horno Eléctrico**  
+Investigacion y diseño de un sistema de control para un horno electrico
+📁 [Sistema de Control de Horno Electrico](https://github.com/nicopinera/sistema_control_tp.git)
 
-🔹 **Sistema de Control de Horno Eléctrico (PIC16F887, Assembly)**  
-Lectura ADC, multiplexado de displays, control de temperatura y comunicación UART.  
-📁 [Repositorio](https://github.com/nicopinera/horno-electrico)
-
-🔹 **Simulador de Comunicaciones Digitales (Python)**  
+🔹 **Simulador de Comunicaciones Digitales (Python y Jupyter Notebook)**  
 Implementación de transmisor, canal AWGN y receptor con criterios ML/MAP y filtro casado.  
-📁 [Repositorio](https://github.com/nicopinera/comunicaciones-digitales)
+📁 [Repositorio](https://github.com/nicopinera/com-dig)
 
-🔹 **Clon de Terraria (Python)**  
-Desarrollo de videojuego 2D con gestión de recursos, físicas y eventos.  
-📁 [Repositorio](https://github.com/nicopinera/terraria-clone)
+🔹 **Sensor de Temperatura (Asembler - PIC16F887)**  
+Trabajo Práctico de Electrónica Digital 2 utilizando el microcontrolador PIC16F887. 
+El proyecto implementa los módulos de ADC y UART, multiplexación de display de 7 segmentos.
+📁 [Repositorio](https://github.com/nicopinera/elec_dig_2)
 
 ---
 
 ## 📚 Formación
+
+🎓 **Bachiller en Economia y Administracion**  
+Colegio secundario Instituto Jesuita Sagrada Familia
+*(2013 – 2020)*
 
 🎓 **Ingeniería en Computación**  
 Facultad de Ciencias Exactas, Físicas y Naturales – Universidad Nacional de Córdoba  
@@ -87,7 +88,8 @@ Facultad de Ciencias Exactas, Físicas y Naturales – Universidad Nacional de C
 
 🏀 **Entrenador de Básquet Nivel 3 (ENEBA)**  
 Especializado en minibasquet (4 a 13 años) y dirección de equipos mayores.  
-Desarrollo de habilidades en liderazgo, comunicación, gestión de grupo y planificación.  
+Desarrollo de habilidades en liderazgo, comunicación, gestión de grupo y planificación.
+*(2020 – Actualidad)*
 
 ---
 
