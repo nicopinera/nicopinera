@@ -111,6 +111,7 @@ Desarrollo de habilidades en liderazgo, comunicación, gestión de grupo y plani
 ![](https://komarev.com/ghpvc/?username=nicopinera&color=brightgreen)
 [![wakatime](https://wakatime.com/badge/user/526bc2fa-8609-4567-a275-5d1be9077781.svg)](https://wakatime.com/@526bc2fa-8609-4567-a275-5d1be9077781)
 
+![](https://github-readme-activity-graph.vercel.app/graph?username=nicopinera&theme=react-dark&hide_border=true)
 </div>
 
 📌 **Lenguajes más usados (WakaTime):** 
