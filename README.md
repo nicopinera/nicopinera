@@ -57,12 +57,21 @@ Investigacion y diseño de un sistema de control para un horno electrico
 
 🔹 **Simulador de Comunicaciones Digitales (Python y Jupyter Notebook)**  
 Implementación de transmisor, canal AWGN y receptor con criterios ML/MAP y filtro casado.  
-📁 [Repositorio](https://github.com/nicopinera/com-dig)
+📁 [Simulador de Comunicacion Digital](https://github.com/nicopinera/com-dig)
 
 🔹 **Sensor de Temperatura (Asembler - PIC16F887)**  
 Trabajo Práctico de Electrónica Digital 2 utilizando el microcontrolador PIC16F887. 
 El proyecto implementa los módulos de ADC y UART, multiplexación de display de 7 segmentos.  
-📁 [Repositorio](https://github.com/nicopinera/elec_dig_2)
+📁 [Horno Electrico](https://github.com/nicopinera/elec_dig_2)
+
+🔹 **Sistema de Comunicación IoT con Python y MQTT**  
+ Implementé un sistema que recibe, procesa y almacena información mediante un broker MQTT, aplicando POO y manejo de bases de datos. El proyecto integra comunicación eficiente y persistencia en una solución ligera y extensible.  
+📁 [MQTT](https://github.com/nicopinera/com-datos/tree/main/TP-05)
+
+🔹 **Osciloscopio y Generador de señales (C - LPC1769)**  
+Trabajo practico utilizando la LPC1769 en el cual se realizo un sistema en el cual, a través de switches se puede seleccionar la función a generar (Escalador, triangular, seno, escalón) 
+o se puede habilitar el sensado de una señal por ADC y enviado por UART para que lo reciba un programa en Python y lo grafique. Se utilizaron Módulos ADC, DAC, UART, DMA.  
+📁 [Osciloscopio](https://github.com/nicopinera/tpfinal_digital3)
 
 ---
 
