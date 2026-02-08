@@ -106,21 +106,14 @@ Desarrollo de habilidades en liderazgo, comunicación, gestión de grupo y plani
 
 <div align="center">
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=nicopinera&theme=dracula&locale=es&date_format=j%20M%5B%20Y%5D&card_width=830)](https://git.io/streak-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 src="https://github-readme-stats.vercel.app/api?username=nicopinera&show_icons=true&theme=radical&locale=es" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicopinera&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=gotham" />
-</a>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nicopinera&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nicopinera&theme=dracula&locale=es&date_format=j%20M%5B%20Y%5D&card_width=830)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=nicopinera&color=brightgreen)
+
 [![wakatime](https://wakatime.com/badge/user/526bc2fa-8609-4567-a275-5d1be9077781.svg)](https://wakatime.com/@526bc2fa-8609-4567-a275-5d1be9077781)
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=nicopinera&theme=react-dark&hide_border=true)
+
 </div>
 
 📌 **Lenguajes más usados (WakaTime):** 
