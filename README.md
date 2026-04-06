@@ -83,7 +83,7 @@ Colegio secundario Instituto Jesuita Sagrada Familia
 
 🎓 **Ingeniería en Computación**  
 Facultad de Ciencias Exactas, Físicas y Naturales – Universidad Nacional de Córdoba  
-*(66% completado, 2019 – Actualidad)*
+*(66% completado, 2021 – Actualidad)*
 
 📘 **Cursos complementarios:**  
 - Cisco CCNA: *Introducción a las Redes*  
